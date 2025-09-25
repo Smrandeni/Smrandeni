@@ -84,14 +84,14 @@ I am a **dynamic software engineer** specializing in **full-stack development** 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smrandeni&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Smrandeni&theme=aura&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrandeni&theme=radical" width="450" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrandeni&theme=aura" width="450" />
 </p>
 
 <p align="center">
