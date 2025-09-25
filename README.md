@@ -108,7 +108,14 @@ I am a **dynamic software engineer** specializing in **full-stack development** 
   </picture>
 </p>
 
+<!-- Profile Views Section -->
+<p align="center">
+  <a href="https://github.com/supunrandeniya">
+    <img src="https://komarev.com/ghpvc/?username=supunrandeniya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
+
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supunrandeniya&style=flat-square" alt="profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Capsule" width="100%"/>
 </p>
